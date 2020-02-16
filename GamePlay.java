@@ -23,7 +23,7 @@ public class GamePlay extends JPanel implements KeyListener , ActionListener{
 	private int totalBricks = 21;
 	//setting the time with delay
 	private Timer timer;
-	private int delay = 1;
+	private int delay = 7;
 	//starting position of the slider
 	private int playerX = 310;
 	//starting position of the ball
